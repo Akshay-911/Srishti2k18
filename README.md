@@ -4,7 +4,7 @@ This is the website of SRISHTI2K18, Annual Tech Fest of LNCT Bhopal. Website is 
 ### Want to use the website for learning purpose?  
 Follow the below steps:  
 ```
-$ git clone https://github.com/mishra3452/srishti2k18.git  
+$ git clone https://github.com/Akshay-911/Srishti2k18.git  
 $ cd srishti2k18  
 $ cd srishti\ 2k18\ final\ version/
 ```  

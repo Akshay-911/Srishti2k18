@@ -163,3 +163,23 @@ body, html {
 }
 }
 
+.dum.double.alt:after {
+  content: attr(alt) "\A" attr(data-second);
+  white-space: pre;
+  top: calc(50% - 1em);
+}
+.dum.big {
+  font-size: 200%;
+}
+.dum.small {
+  font-size: 50%;
+}
+.dum.round {
+  padding: 0 1em;
+}
+.dum.round:before { 
+  border-radius: 1em;
+}
+.dum.round:after {
+  margin-left: -1em;
+}
